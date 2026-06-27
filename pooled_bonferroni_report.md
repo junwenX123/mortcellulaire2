@@ -10,15 +10,13 @@ $$H_0:\pi=p_0,\qquad H_A:\pi>p_0.$$
 
 Since 27 parameter settings were tested, Bonferroni correction was applied. With global alpha = 0.05, the Bonferroni threshold is:
 
-$$
-\alpha_\mathrm{Bonferroni} = \frac{0.05}{27} = 0.00185185.
-\]
+$$\alpha_\mathrm{Bonferroni} = \frac{0.05}{27} = 0.00185185.$$
+
 
 A parameter setting is considered significant only if:
 
-\[
-p_\mathrm{pooled} < 0.00185185.
-\]
+
+$$p_\mathrm{pooled} < 0.00185185.$$
 
 ## Results
 
