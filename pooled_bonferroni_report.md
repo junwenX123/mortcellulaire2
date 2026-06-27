@@ -6,13 +6,11 @@ For each parameter setting, the five independent replicates were pooled. If a pa
 
 The hypotheses are:
 
-\[
-H_0:\pi=p_0,\qquad H_A:\pi>p_0.
-\]
+$$H_0:\pi=p_0,\qquad H_A:\pi>p_0.$$
 
 Since 27 parameter settings were tested, Bonferroni correction was applied. With global alpha = 0.05, the Bonferroni threshold is:
 
-\[
+$$
 \alpha_\mathrm{Bonferroni} = \frac{0.05}{27} = 0.00185185.
 \]
 
