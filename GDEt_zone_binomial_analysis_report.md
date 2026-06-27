@@ -145,10 +145,6 @@ Burn-in removes the initial transient period: the first 500 observed deaths are 
 | deathERK_ld2p0_bdR4p0_bdT1p6__rep04 | 17.240 | 549/1000 | 0.444 | 0.549 | 2.12e-11 | 1.522 |
 | deathERK_ld2p0_bdR4p0_bdT1p6__rep05 | 22.603 | 628/1000 | 0.444 | 0.628 | 1.59e-31 | 2.110 |
 
-## Short conclusion
-The baseline case has T-zone observed fraction = 0.590, area fraction = 0.444, one-sided binomial p-value = 1.84e-20, and T-zone density ratio = 1.799.
-The largest T-zone density ratio occurs in `deathERK_ld0p5_bdR4p0_bdT0p4__rep01` with ratio = 2.862 and p-value = 4.49e-58.
-The smallest one-sided binomial p-value occurs in `deathERK_ld0p5_bdR4p0_bdT0p4__rep01` with p-value = 4.49e-58 and ratio = 2.862.
 
 ## Aggregated replicate summary
 | parameter setting | replicates | mean T-zone ratio | mean binomial p-value | fraction p<0.05 |
